@@ -1,6 +1,6 @@
 {
   "name": "com.upla.gameengine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "TallerGameEngine",
   "description": "Conjunto de scripts y herramientas para ayudar a los alumnos del Taller de GameEngine de la UPLA",
   "unity": "2019.1",
